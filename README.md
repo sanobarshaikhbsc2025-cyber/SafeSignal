@@ -3,7 +3,7 @@
 **Detecting hidden drug side-effects from patient reviews using NLP.**
 Course project for *Natural Language Processing (0304220301)*, Symbiosis Artificial Intelligence Institute.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/SafeSignal/blob/main/notebooks/SafeSignal_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanobarshaikhbsc2025-cyber/SafeSignal/blob/main/notebooks/SafeSignal_Colab.ipynb)
 
 Patients describe medicine side-effects on health forums in their own words. SafeSignal reads those posts, finds the drugs and the reactions linked to them, and turns free text into a simple early-warning signal.
 
@@ -30,7 +30,7 @@ Patients describe medicine side-effects on health forums in their own words. Saf
 
 **Locally:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/SafeSignal.git
+git clone https://github.com/sanobarshaikhbsc2025-cyber/SafeSignal.git
 cd SafeSignal
 pip install -r requirements.txt
 python app.py
