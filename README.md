@@ -7,7 +7,7 @@ Course project for *Natural Language Processing (0304220301)*, Symbiosis Artific
 
 Patients describe medicine side-effects on health forums in their own words. SafeSignal reads those posts, finds the drugs and the reactions linked to them, and turns free text into a simple early-warning signal.
 
-![Pipeline](assets/pipeline.png)
+assets/pipeline.png
 
 ## What the app can do
 
